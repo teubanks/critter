@@ -1,3 +1,9 @@
+Modules:
 implement Ruby interpreter to give us the ability to create plugins from ruby
 
+Commands:
 Allow adding/removing commands at runtime via a 'commands' file. Only to work for simple message/response types of commands.
+Ability to be 'tought' commands via a private mesage and have them written to the messages file
+
+Moderation:
+Topic locking
